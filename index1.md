@@ -1,4 +1,4 @@
-# - Partha's first page
+#  Partha's first page
 ## Trying out this style of pages
 
 Will improve upon these
